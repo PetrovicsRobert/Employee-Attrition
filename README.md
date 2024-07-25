@@ -10,10 +10,7 @@ This project analyzes employee attrition using a dataset cleaned and explored wi
 - [PowerBI Dashboard](#powerbi-dashboard)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Dataset
 The dataset used (`Employee-Attrition
