@@ -38,6 +38,7 @@ From the PowerBI dashboard, the following insights were observed based on total 
   - The most significant attrition rate occured in the Human Resources department ( 30.16 % ) due to the low number of employees and high attrition count.
 
   To better understand the reasons behind the attrition rates in each department, make sure to filter the data down to individual departments. This showcases a more detailed analysis of the specific factors contributing to attrition within each department.
+  
 **Total Employees and Attrition Count:**
   - Total Employees: 4,410
   - Total Attrition Count: 711
