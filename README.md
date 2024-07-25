@@ -21,6 +21,7 @@ Data cleaning and exploratory data analysis (EDA) were performed using SQL. The 
 
 ## PowerBI Dashboard
 The PowerBI dashboard visualizes key insights from the dataset, focusing on various factors that influence employee attrition.
+Please navigate to `Employee-Attrition ` and click on ` Employee Attrition.pbix` to open the interactive dashboard.
 
 ![Employee Attrition Dashboard](https://github.com/PetrovicsRobert/Employee-Attrition/blob/5704e1d0b76e51a33dfb58850e494e3f6364896a/Attrition_Dashboard_Picture.png)
 
